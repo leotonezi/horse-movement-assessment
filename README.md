@@ -38,9 +38,3 @@ MIT License - see [LICENSE](LICENSE) file for details
 - Built with [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)
 - Powered by [LandingAI](https://landing.ai)
 - Thanks to veterinary professionals for validation and feedback
-
-
-
-- [ ] Integration with veterinary practice management systems
-- [ ] Real-time analysis during live sessions
-- [ ] Expanded detection for additional gait abnormalities
